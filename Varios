@@ -1,6 +1,6 @@
 AWS
 S3
-•	Como se asignan permisos [AWS](https://docs.aws.amazon.com/AmazonS3/latest/user-guide/set-permissions.html).
+•	Como se asignan permisos [AWS](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-access-control.html).
 
 •	Diferencia entre los distintos tipos de strace clases
 •	https://aws.amazon.com/s3/storage-classes/
