@@ -1,4 +1,4 @@
-# Preparacion-para-entrevistas-como-DevOps
+# Preparacion-para-entrevistas-como-DevOps<p align="center">
 
 
 This site was built using [GitHub Pages](https://pages.github.com/).
